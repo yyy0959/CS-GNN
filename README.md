@@ -4,5 +4,5 @@ The original datasets can be found from https://www.aminer.cn/citation
 * Place the datasets in dataset/
 * Training/Testing
 ```
-python main.py --dataset dblp,acm --rand_split
+python main.py --dataset dblp,acm --rand_split --downstream 1
 ```
